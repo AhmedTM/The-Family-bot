@@ -1,0 +1,78 @@
+body {
+margin: 0;
+}
+.forwardButton {
+width: 100px;
+height: 100px;
+margin: auto;
+margin-top: 50px;
+}
+.container{
+height: 100px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.container.leftButton {
+width: 100px;
+height: 100px;
+float: left;
+margin-left: 500px;
+#margin-top: 20px;
+}
+.container.stopButton {
+width: 100px;
+height: 100px;
+padding-top: 50px;
+margin: auto;
+}
+.container.rightButton{
+width: 100px;
+height: 100px;
+float: right;
+margin-right: 500px;
+}
+.backwardButton{
+width: 100px;
+height: 100px;
+margin: auto;
+}
+.forwardimg{
+width: 100px;
+height: 100px;
+}
+.backwardimg{
+width: 100px;
+height: 100px;
+}
+.leftimg{
+width: 100px;
+height: 100px;
+}
+.rightimg{
+width: 100px;
+height: 100px;
+}
+.centerimg{
+width: 100px;
+height: 100px;
+}
+.backwardimg:hover {
+width: 150%;
+height: 150%;
+}
+.forwardimg:hover {
+width: 150%;
+height: 150%;
+}
+.leftimg:hover {
+width: 150%;
+height: 150%;
+}
+.rightimg:hover {
+width: 150%;
+height: 150%;
+}
+.centerimg:hover {
+width: 150%;
+height: 150%;
+}
